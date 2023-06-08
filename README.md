@@ -31,8 +31,11 @@ pertencem, atualmente, a IN.)
 
 Grafos para criar as Matrizes Pré-cadastradas para serem usadas como testes:
 ![image](https://github.com/Dihh-barret/-Teoria-dos-Grafos/assets/66051980/f09ee012-3365-491a-96bc-f1a519ebf513)
+
+
 Informações Importantes:
-(i) No início do programa deve ser criado um menu com as opções de escolhas entre os 4 
-exercícios;
+(i) No início do programa deve ser criado um menu com as opções de escolhas entre os 4 exercícios;
+
 (ii) Ao entrar no exercício deve haver a opção de escolher a matriz desejada;
+
 (iii) Deve-se usar a biblioteca Python networkX para mostrar os grafos;
