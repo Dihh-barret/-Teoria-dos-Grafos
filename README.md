@@ -34,6 +34,7 @@ Grafos para criar as Matrizes Pré-cadastradas para serem usadas como testes:
 
 
 Informações Importantes:
+
 (i) No início do programa deve ser criado um menu com as opções de escolhas entre os 4 exercícios;
 
 (ii) Ao entrar no exercício deve haver a opção de escolher a matriz desejada;
